@@ -3,7 +3,7 @@
 Parser for parsing OCR text. It takes a file path as input and prints all the data extracted in structured format i.e. json.
 
 # Input format
-Refer to file pan-outputs.txt as a sample file.
+Refer to file [pan-outputs.txt](https://github.com/Khusbu/ocr_parser/blob/master/pan-outputs.txt) as a sample file.
 
 # Output format
 JSON structure with name, father's name, pan no., date of birth(dob) as fields.
